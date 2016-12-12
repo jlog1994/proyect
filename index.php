@@ -1,5 +1,9 @@
 <!DOCTYPE html>
+<<<<<<< HEAD
 <html lang="es">
+=======
+<html lang="en">
+>>>>>>> geolocalizacion
 
     <head>
 
@@ -10,6 +14,14 @@
         <meta name="author" content="">
 
         <title>Pizzas "CHIRRIS"</title>
+<<<<<<< HEAD
+=======
+        <!-- Estilo para animacion del icono -->
+        <link href="css/animaciones.css" rel="stylesheet" type="text/css">
+        
+
+        <!-- termina animacion de icono -->
+>>>>>>> geolocalizacion
 
         <link rel="icon" href="img/favicon.ico">
         <!-- Bootstrap Core CSS -->
@@ -96,9 +108,17 @@
                             <li>
                                 <a href=""><i class="fa fa-edit fa-fw"></i> Promociones</a>
                             </li>
+<<<<<<< HEAD
                             
                         </ul>
                         <a href="./login/cliente.php"> <img src="img/carrito.png" height="80" width="80" ></a>
+=======
+
+                        </ul>
+                        <a href="./login/cliente.php"> <!--img src="img/carrito.png" height="80" width="80" -->
+                            <img class="pulseit" src="img/carrito.png" alt="comprar" >
+                        </a>
+>>>>>>> geolocalizacion
                     </div>
                     <!-- /.sidebar-collapse -->
                 </div>
@@ -114,7 +134,11 @@
                 </div>
                 <!-- /.row -->
                 <div class="">
+<<<<<<< HEAD
                     <iframe name="zona" width="100%" height="400px" frameborder="0" src="slider/chirris.html"></iframe>
+=======
+                    <iframe name="zona" width="100%" height="400px" frameborder="0" src="video1.php"></iframe>
+>>>>>>> geolocalizacion
                 </div>
                 <!-- /.row -->
 

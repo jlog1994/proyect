@@ -4,7 +4,11 @@
 <html lang="en">
 
     <head>
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> geolocalizacion
         <meta name="viewport" content="width=device-width; initial-scale=1.0">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -33,7 +37,11 @@
 
         <!-- Custom Fonts -->
         <link href="../estilo/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> geolocalizacion
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -41,7 +49,11 @@
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> geolocalizacion
         <link href="../estilo/barra.css" rel="stylesheet" type="text/css">
     </head>
 
@@ -239,7 +251,11 @@
                     <!-- /.dropdown -->
                     <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#"><?php
+<<<<<<< HEAD
                             echo "Bienvenido " .$_SESSION['name'];
+=======
+                            echo "Bienvenido " . $_SESSION['name'];
+>>>>>>> geolocalizacion
                             ?>
                             <i class="fa fa-user fa-fw"></i>  <i class="fa fa-caret-down"></i>
                         </a>
@@ -292,8 +308,13 @@
                                             </li>
                                         </ul>
                                     </li>
+<<<<<<< HEAD
                                   
                                   
+=======
+
+
+>>>>>>> geolocalizacion
                                 </ul>
                                 <!-- /.nav-second-level -->
                             </li>
@@ -309,6 +330,7 @@
                                             <li>
                                                 <a href="../vistas/clientebusqueda.php" target="zona"><i class="fa fa-spinner"></i> Clientes</a>
                                             </li>
+<<<<<<< HEAD
                                             
                                         </ul>
                                     </li>
@@ -317,6 +339,21 @@
                         <!--<li>
                             <a href="#"><i class="fa fa-edit fa-fw"></i> Promociones</a>
                         </li>-->
+=======
+                                            <li>
+                                                <a href="../vistas/pedidobusqueda.php" target="zona"><i class="fa fa-spinner"></i> Pedidos</a>
+                                                <a href="../ruta2.php?nc=1" target="zona"><i class="fa fa-spinner"></i> Pedidos</a>
+                                            </li>
+
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <!--<li>
+                                <a href="#"><i class="fa fa-edit fa-fw"></i> Promociones</a>
+                            </li>-->
+>>>>>>> geolocalizacion
                         </ul>
                     </div>
                     <!-- /.sidebar-collapse -->

@@ -10,10 +10,17 @@ $(document).ready(function () {
                 },
                 fields: {
                     nombre: {
+<<<<<<< HEAD
                         message: 'Nombre  invalidos',
                         validators: {
                             notEmpty: {
                                 message: 'Se require su nombre o nombres'
+=======
+                        message: 'Nombre  invalido',
+                        validators: {
+                            notEmpty: {
+                                message: 'Se require su nombre'
+>>>>>>> geolocalizacion
                             },
                             stringLength: {
                                 min: 3,
