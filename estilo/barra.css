@@ -1,0 +1,24 @@
+
+#empresa{
+    //background: #31b131;
+    background: rgba(2,158,70,1);
+    background: -moz-linear-gradient(top, rgba(2,158,70,1) 0%, rgba(39,240,8,1) 50%, rgba(5,168,49,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(2,158,70,1)), color-stop(50%, rgba(39,240,8,1)), color-stop(100%, rgba(5,168,49,1)));
+    background: -webkit-linear-gradient(top, rgba(2,158,70,1) 0%, rgba(39,240,8,1) 50%, rgba(5,168,49,1) 100%);
+    background: -o-linear-gradient(top, rgba(2,158,70,1) 0%, rgba(39,240,8,1) 50%, rgba(5,168,49,1) 100%);
+    background: -ms-linear-gradient(top, rgba(2,158,70,1) 0%, rgba(39,240,8,1) 50%, rgba(5,168,49,1) 100%);
+    background: linear-gradient(to bottom, rgba(2,158,70,1) 0%, rgba(39,240,8,1) 50%, rgba(5,168,49,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#029e46', endColorstr='#05a831', GradientType=0 );
+
+
+
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(33,28,33,0.71);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(33,28,33,0.71);
+    box-shadow: 10px 10px 5px 0px rgba(33,28,33,0.71);
+   // border-radius: 2em;
+
+}
+#barra {
+    background-color: #000;
+    color: #1ecaf3
+}
