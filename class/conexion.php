@@ -1,6 +1,6 @@
 <?php
 
-$conexion = mysql_connect("mysql.hostinger.mx", "u243481060_root", "qwerty")
+$conexion = mysql_connect("", "u243481060_root", "qwerty")
         or die("Error de conexion" . mysql_error());
 
 if (!$conexion) {
